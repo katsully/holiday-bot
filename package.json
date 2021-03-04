@@ -1,0 +1,22 @@
+{
+  "name": "holiday-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katsully/holiday-bot.git"
+  },
+  "author": "Kat Sullivan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katsully/holiday-bot/issues"
+  },
+  "homepage": "https://github.com/katsully/holiday-bot#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
