@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/katsully/holiday-bot#readme",
   "dependencies": {
+    "country-list": "^2.2.0",
     "twit": "^2.2.11"
   }
 }
